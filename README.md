@@ -1,2 +1,1 @@
-# zine-ssg.io
-The official website for https://github.com/kristoff-it/zine
+arwn.github.io static site generator
