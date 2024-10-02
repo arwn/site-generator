@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+  <head id="head">
+    <meta charset="UTF-8">
+    <meta name="description" content="arwn">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="@croloris">
+    <meta name="twitter:author" content="@croloris">
+    <meta name="twitter:description" content="arwn">
+    <meta name="twitter:title" content="$page.title.suffix('')">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="$page.title.suffix('')">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title id="title">
+      <super>
+    </title>
+    <link rel="stylesheet" type="text/css" href="$site.asset('fonts.css').link()">
+    <link rel="stylesheet" type="text/css" href="$site.asset('monaspace.css').link()">
+    <link rel="stylesheet" type="text/css" href="$site.asset('monospace.css').link()">
+    <link rel="stylesheet" type="text/css" href="$site.asset('highlight.css').link()">
+    <super>
+  </head>
+  <body>
+    <div id="content">
+      <super>
+    </div>
+  </body>
+</html>

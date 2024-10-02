@@ -1,0 +1,13 @@
+---
+.title = "/index.html",
+.date = @date("2020-07-06T00:00:00"),
+.author = "Loris Cro",
+.layout = "index.shtml",
+.draft = false,
+---
+
+Welcome to my website.
+
+## 2020
+- [drawterm](/posts/drawterm)
+
